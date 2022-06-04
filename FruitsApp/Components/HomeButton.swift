@@ -18,7 +18,7 @@ struct HomeButton: View {
     var body: some View {
         
          Button(action: {
-             OnboardingView(fruits:fruitData)
+           //  OnboardingView(fruits:fruitData)
          }, label: {
              HStack (spacing: 8) {
                  
